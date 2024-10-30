@@ -1,0 +1,1 @@
+"# VSCode-Registry-Script" 
